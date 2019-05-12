@@ -18,5 +18,22 @@
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="IDEController.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DMAController.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IDEController.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="task.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DMAController.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
